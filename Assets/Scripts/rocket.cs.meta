@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b4f8bb6973c2bdd4f964a71f81f1fcf6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flySound: {instanceID: 0}
+  - deathSound: {instanceID: 0}
+  - winSound: {instanceID: 0}
+  - finishParticle: {instanceID: 0}
+  - boomParticle: {instanceID: 0}
+  - FlyParticle: {instanceID: 0}
+  - fuelText: {instanceID: 0}
+  - Button: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
